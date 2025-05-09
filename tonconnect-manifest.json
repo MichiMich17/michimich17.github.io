@@ -1,0 +1,9 @@
+{
+  "manifest_version": "1",
+  "name": "Peace or Shit",
+  "description": "Подключение к кошельку через TonConnect",
+  "url": "https://michimich17.github.io",
+  "icon_url": "https://michimich17.github.io/icon.png",
+  "bridge_url": "https://bridge.tonapi.io/bridge"
+}
+
