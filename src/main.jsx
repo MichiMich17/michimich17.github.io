@@ -5,7 +5,7 @@ import { TonConnectUIProvider } from "@tonconnect/ui-react";
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <TonConnectUIProvider manifestUrl="https://ton-manifest-hosting.netlify.app/tonconnect-manifest.json">
+  <TonConnectUIProvider manifestUrl="https://ton-manifest-hosting.pages.dev/tonconnect-manifest.json">
     <App />
   </TonConnectUIProvider>,
 )
