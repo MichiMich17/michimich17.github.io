@@ -2,8 +2,8 @@
   "manifest_version": "1",
   "name": "Peace or Shit",
   "description": "Подключение к кошельку через TonConnect",
-  "url": "https://ton-manifest-hosting.netlify.app",
-  "icon_url": "https://ton-manifest-hosting.netlify.app/icon.png",
+  "url": "https://ton-manifest-hosting.pages.dev",
+  "icon_url": "https://ton-manifest-hosting.pages.dev/icon.png",
   "bridge_url": "https://bridge.tonapi.io/bridge"
 }
 
