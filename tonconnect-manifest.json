@@ -4,6 +4,8 @@
   "description": "Подключение к кошельку через TonConnect",
   "url": "https://ton-manifest-hosting.pages.dev",
   "icon_url": "https://ton-manifest-hosting.pages.dev/icon.png",
-  "bridge_url": "https://bridge.tonapi.io/bridge"
+  "bridge_url": "https://bridge.tonapi.io/bridge",
+  "universal_link": "https://app.tonkeeper.com", 
+  "js_bridge_key": "tonkeeper"
 }
 
